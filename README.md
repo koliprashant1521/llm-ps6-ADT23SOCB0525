@@ -20,5 +20,10 @@ streamlit run app.py
 Test inputs are in `sample_emails.txt`.
 
 ## Screenshots
-<img width="935" height="833" alt="Screenshot 2026-11-20 112522" src="https://github.com/user-attachments/assets/5eaf72c5-408a-4d73-8c39-0cbec4931bf9" />
+<img width="928" height="861" alt="Screenshot 2026-11-20 112618" src="https://github.com/user-attachments/assets/8c9b573b-4e79-4560-856c-5d3ca67e900c" />
+<img width="437" height="417" alt="Screenshot 2026-11-20 112604" src="https://github.com/user-attachments/assets/2d72e5a0-b109-4ac1-8cf2-7b81c2712146" />
+<img width="935" height="833" alt="Screenshot 2026-11-20 112522" src="https://github.com/user-attachments/assets/8d4fff43-fcb2-44fb-989f-e1b0e0390fdf" />
+<img width="941" height="820" alt="Screenshot 2026-11-20 112533" src="https://github.com/user-attachments/assets/a41ba7f3-ec8b-47d0-86cb-eb08ae4da8af" />
+<img width="936" height="846" alt="Screenshot 2026-11-20 112544" src="https://github.com/user-attachments/assets/7e6094f4-0771-4e07-bdfa-4d5d3b630c6b" />
+
 
