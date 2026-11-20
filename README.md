@@ -20,4 +20,5 @@ streamlit run app.py
 Test inputs are in `sample_emails.txt`.
 
 ## Screenshots
-(Add 1-2 screenshots here)
+<img width="935" height="833" alt="Screenshot 2026-11-20 112522" src="https://github.com/user-attachments/assets/5eaf72c5-408a-4d73-8c39-0cbec4931bf9" />
+
